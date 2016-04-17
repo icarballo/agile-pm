@@ -43,7 +43,7 @@
         <div id="apm-ds-header-b">
             <td width="925px" bgcolor="#999999" align="left"> <!-- bgcolor="#999999" -->
                 <img src="../framework/material-design-icons-apm/action/ic_list_black_24dp.png">&nbsp;<a style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="../bandeja_de_entrada/index.php">Listas</a>&nbsp;
-                <img src="../framework/material-design-icons-apm/action/ic_chrome_reader_mode_black_24dp.png">&nbsp;<a style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="www.google.es">Recopilar</a>&nbsp;
+                <img src="../framework/material-design-icons-apm/action/ic_chrome_reader_mode_black_24dp.png">&nbsp;<a style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="../recopilar/index.php">Recopilar</a>&nbsp;
                 <img src="../framework/material-design-icons-apm/action/ic_settings_black_24dp.png">&nbsp;<a style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="www.google.es">Procesar</a>&nbsp;
                 <img src="../framework/material-design-icons-apm/action/ic_assignment_black_24dp.png">&nbsp;<a style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="www.google.es">Revisar</a>&nbsp;
                 <img src="../framework/material-design-icons-apm/action/ic_work_black_24dp.png">&nbsp;<a style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="www.google.es">Proyectos</a>&nbsp;
