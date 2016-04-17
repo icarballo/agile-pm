@@ -15,8 +15,8 @@
     <title>Form | Project</title>
 
     <!-- Bootstrap -->
-    <link href="bootstrap-3.3.6-dist/css/bootstrap.css" rel="stylesheet">
-    <link href="custom_styles.css" rel="stylesheet">
+    <link href="framework/bootstrap-3.3.6-dist/css/bootstrap.css" rel="stylesheet">
+    <link href="framework/css/custom_styles.css" rel="stylesheet">
 
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:700italic,700,600italic,600,400italic,400,300italic,300' rel='stylesheet' type='text/css'>
 
@@ -25,11 +25,11 @@
 
 content
 
-</form>
+
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="bootstrap-3.3.6-dist/js/bootstrap.min.js"></script>
+<script src="framework/bootstrap-3.3.6-dist/js/bootstrap.min.js"></script>
 </body>
 </html>
