@@ -17,7 +17,7 @@
 
     <!-- Bootstrap -->
     <link href="../framework/bootstrap-3.3.6-dist/css/bootstrap.css" rel="stylesheet">
-    <link href="../custom_styles.css" rel="stylesheet">
+    <link href="../framework/css/custom_styles.css" rel="stylesheet">
 
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:700italic,700,600italic,600,400italic,400,300italic,300' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Raleway:400,100,100italic,200,200italic,300,300italic,400italic,500,500italic,600,600italic,700,700italic' rel='stylesheet' type='text/css'>
@@ -60,7 +60,7 @@
         <!-- tamaño 425 px -->
         <div id="apm-ds-header-c">
             <td width="425px" bgcolor="#999999"> <!-- bgcolor="#999999" -->
-                <img src="../framework/material-design-icons-apm/social/ic_notifications_none_black_24dp.png">&nbsp;<a style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="www.google.es">
+                <img src="../framework/material-design-icons-apm/social/ic_notifications_none_black_24dp.png">&nbsp;<a style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="www.google.es"></a>
                 <img src="../framework/material-design-icons-apm/action/ic_perm_identity_black_36dp.png">&nbsp;<a style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="www.google.es">Login</a>
             </td>
         </div>
@@ -96,7 +96,7 @@
                     <tr>
                         <td width="30px"><img src="../framework/material-design-icons-apm/action/ic_today_black_24dp.png"></td>
                         <td width="305px" valign="middle">
-                            <a style="font-family: 'Calibri Light', sans-serif; font-size: 11pt; font-weight: 300; color: #000000;" href="www.google.es">Agenda</a>
+                            <a style="font-family: 'Calibri Light', sans-serif; font-size: 11pt; font-weight: 300; color: #000000;" href="../agenda/index.php">Agenda</a>
                         </td>
                     </tr>
                     <tr>
@@ -105,7 +105,7 @@
                     <tr>
                         <td width="30px"><img src="../framework/material-design-icons-apm/navigation/ic_arrow_forward_black_24dp.png"></td>
                         <td width="305px" valign="middle">
-                            <a style="font-family: 'Calibri Light', sans-serif; font-size: 11pt; font-weight: 300; color: #000000;" href="www.google.es">Siguientes Acciones</a>
+                            <a style="font-family: 'Calibri Light', sans-serif; font-size: 11pt; font-weight: 300; color: #000000;" href="../siguientes_acciones/index.php">Siguientes Acciones</a>
                         </td>
                     </tr>
                     <tr>
@@ -114,7 +114,7 @@
                     <tr>
                         <td width="30px"><img src="../framework/material-design-icons-apm/action/ic_history_black_24dp.png"></td>
                         <td width="305px" valign="middle">
-                            <a style="font-family: 'Calibri Light', sans-serif; font-size: 11pt; font-weight: 300; color: #000000;" href="www.google.es">A la espera</a>
+                            <a style="font-family: 'Calibri Light', sans-serif; font-size: 11pt; font-weight: 300; color: #000000;" href="../a_la_espera/index.php">A la espera</a>
                         </td>
                     </tr>
                     <tr>
@@ -129,7 +129,7 @@
                     <tr>
                         <td width="30px"><img src="../framework/material-design-icons-apm/action/ic_help_black_24dp.png"></td>
                         <td width="305px" valign="middle">
-                            <a style="font-family: 'Calibri Light', sans-serif; font-size: 11pt; font-weight: 300; color: #000000;" href="www.google.es">Algún día / Tal vez</a>
+                            <a style="font-family: 'Calibri Light', sans-serif; font-size: 11pt; font-weight: 300; color: #000000;" href="../algun_dia_tal_vez/index.php">Algún día / Tal vez</a>
                         </td>
                     </tr>
                     <tr>
@@ -138,7 +138,7 @@
                     <tr>
                         <td width="30px"><img src="../framework/material-design-icons-apm/content/ic_archive_black_24dp.png"></td>
                         <td width="305px" valign="middle">
-                            <a style="font-family: 'Calibri Light', sans-serif; font-size: 11pt; font-weight: 300; color: #000000;" href="www.google.es">Material de Referencia</a>
+                            <a style="font-family: 'Calibri Light', sans-serif; font-size: 11pt; font-weight: 300; color: #000000;" href="../material_de_referencia/index.php">Material de Referencia</a>
                         </td>
                     </tr>
                     <tr>
@@ -147,7 +147,7 @@
                     <tr>
                         <td width="30px"><img src="../framework/material-design-icons-apm/file/ic_folder_open_black_24dp.png"></td>
                         <td width="305px" valign="middle">
-                            <a style="font-family: 'Calibri Light', sans-serif; font-size: 11pt; font-weight: 300; color: #000000;" href="www.google.es">Archivo de Seguimiento</a>
+                            <a style="font-family: 'Calibri Light', sans-serif; font-size: 11pt; font-weight: 300; color: #000000;" href="../archivo_de_seguimiento/index.php">Archivo de Seguimiento</a>
                         </td>
                     </tr>
                     <tr>
@@ -162,7 +162,7 @@
                     <tr>
                         <td width="30px"><img src="../framework/material-design-icons-apm/action/ic_delete_black_24dp.png"></td>
                         <td width="305px" valign="middle">
-                            <a style="font-family: 'Calibri Light', sans-serif; font-size: 11pt; font-weight: 300; color: #000000;" href="www.google.es">Papelera</a>
+                            <a style="font-family: 'Calibri Light', sans-serif; font-size: 11pt; font-weight: 300; color: #000000;" href="../papelera/index.php">Papelera</a>
                         </td>
                     </tr>
                     <tr>
@@ -171,7 +171,7 @@
                     <tr>
                         <td width="30px"><img src="../framework/material-design-icons-apm/action/ic_done_black_24dp.png"></td>
                         <td width="305px" valign="middle">
-                            <a style="font-family: 'Calibri Light', sans-serif; font-size: 11pt; font-weight: 300; color: #000000;" href="www.google.es">Hecho</a>
+                            <a style="font-family: 'Calibri Light', sans-serif; font-size: 11pt; font-weight: 300; color: #000000;" href="../hecho/index.php">Hecho</a>
                         </td>
                     </tr>
                     <tr>
