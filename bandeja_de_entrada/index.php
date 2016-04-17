@@ -29,19 +29,19 @@
     <tr>
         <!-- tamaño 350 px -->
         <div id="apm-ds-header-a">
-            <td width="350px" bgcolor="#999999" align="center"> <!-- bgcolor="#999999" -->
+            <td width="350px" bgcolor="#aaaaaa" align="center"> <!-- bgcolor="#aaaaaa" -->
                 <label class="col-sm-12 control-label" for="sm" style="font-family: 'Calibri Light', sans-serif; font-size: 18pt; font-weight: 700;">Agile <br> Project Management</label>
             </td>
         </div>
 
         <!-- tamaño 25 px -->
         <div id="apm-ds-header-separador">
-            <td width="25px" bgcolor="#999999" align="center"></td>
+            <td width="25px" bgcolor="#aaaaaa" align="center"></td>
         </div>
 
         <!-- tamaño 925 px -->
         <div id="apm-ds-header-b">
-            <td width="925px" bgcolor="#999999" align="left"> <!-- bgcolor="#999999" -->
+            <td width="925px" bgcolor="#aaaaaa" align="left"> <!-- bgcolor="#aaaaaa" -->
                 <img src="../framework/material-design-icons-apm/action/ic_list_black_24dp.png">&nbsp;<a style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="../bandeja_de_entrada/index.php">Listas</a>&nbsp;
                 <img src="../framework/material-design-icons-apm/action/ic_chrome_reader_mode_black_24dp.png">&nbsp;<a style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="../recopilar/index.php">Recopilar</a>&nbsp;
                 <img src="../framework/material-design-icons-apm/action/ic_settings_black_24dp.png">&nbsp;<a style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="www.google.es">Procesar</a>&nbsp;
@@ -54,12 +54,12 @@
 
         <!-- tamaño 25 px -->
         <div id="apm-ds-header-separador">
-            <td width="25px" bgcolor="#999999" align="center"></td>
+            <td width="25px" bgcolor="#aaaaaa" align="center"></td>
         </div>
 
         <!-- tamaño 425 px -->
         <div id="apm-ds-header-c">
-            <td width="425px" bgcolor="#999999"> <!-- bgcolor="#999999" -->
+            <td width="425px" bgcolor="#aaaaaa"> <!-- bgcolor="#aaaaaa" -->
                 <img src="../framework/material-design-icons-apm/social/ic_notifications_none_black_24dp.png">&nbsp;<a style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="www.google.es"></a>
                 <img src="../framework/material-design-icons-apm/action/ic_perm_identity_black_36dp.png">&nbsp;<a style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="www.google.es">Login</a>
             </td>
@@ -88,7 +88,7 @@
                         <td height="5px" colspan="2"></td> <!-- separador -->
                     </tr>
                     <tr>
-                        <td height="1px" colspan="2" bgcolor="#999999"></td> <!-- linea divisoria -->
+                        <td height="1px" colspan="2" bgcolor="#aaaaaa"></td> <!-- linea divisoria -->
                     </tr>
                     <tr>
                         <td height="5px" colspan="2"></td> <!-- separador -->
@@ -121,7 +121,7 @@
                         <td height="5px" colspan="2"></td> <!-- separador -->
                     </tr>
                     <tr>
-                        <td height="1px" colspan="2" bgcolor="#999999"></td> <!-- linea divisoria -->
+                        <td height="1px" colspan="2" bgcolor="#aaaaaa"></td> <!-- linea divisoria -->
                     </tr>
                     <tr>
                         <td height="5px" colspan="2"></td> <!-- separador -->
@@ -154,7 +154,7 @@
                         <td height="5px" colspan="2"></td> <!-- separador -->
                     </tr>
                     <tr>
-                        <td height="1px" colspan="2" bgcolor="#999999"></td> <!-- linea divisoria -->
+                        <td height="1px" colspan="2" bgcolor="#aaaaaa"></td> <!-- linea divisoria -->
                     </tr>
                     <tr>
                         <td height="5px" colspan="2"></td> <!-- separador -->
@@ -184,7 +184,7 @@
         <!-- tamaño 25 px -->
         <div id="apm-ds-content-separador">
             <td width="12px" valign="top"></td>
-            <td width="1px" valign="top" bgcolor="#999999"></td>
+            <td width="1px" valign="top" bgcolor="#aaaaaa"></td>
             <td width="12px" valign="top"></td>
         </div>
 
@@ -217,7 +217,7 @@
         <!-- tamaño 25 px -->
         <div id="apm-ds-content-separador">
             <td width="12px" valign="top"></td>
-            <td width="1px" valign="top" bgcolor="#999999"></td>
+            <td width="1px" valign="top" bgcolor="#aaaaaa"></td>
             <td width="12px" valign="top"></td>
         </div>
 
@@ -238,17 +238,17 @@
     <tr>
         <!-- tamaño 350 px -->
         <div id="apm-ds-footer-a">
-            <td width="350px" bgcolor="#999999"></td>
+            <td width="350px" bgcolor="#aaaaaa"></td>
         </div>
 
         <!-- tamaño 25 px -->
         <div id="apm-ds-footer-separador">
-            <td width="25px" bgcolor="#999999" align="center"></td>
+            <td width="25px" bgcolor="#aaaaaa" align="center"></td>
         </div>
 
         <!-- tamaño 925 px -->
         <div id="apm-ds-footer-b">
-            <td width="925px" bgcolor="#999999" align="right">
+            <td width="925px" bgcolor="#aaaaaa" align="right">
                 <img src="../framework/material-design-icons-apm/action/ic_copyright_black_18dp.png">
                 <a style="font-family: 'Calibri Light', sans-serif; font-size: 10pt; font-weight: 300; color: #000000;" href="www.google.es"> 2016 by carballo-team. All rights reserved.</a>
             </td>
@@ -256,12 +256,12 @@
 
         <!-- tamaño 25 px -->
         <div id="apm-ds-footer-separador">
-            <td width="25px" bgcolor="#999999" align="center"></td>
+            <td width="25px" bgcolor="#aaaaaa" align="center"></td>
         </div>
 
         <!-- tamaño 425 px -->
         <div id="apm-ds-footer-c">
-            <td width="425px" bgcolor="#999999"></td>
+            <td width="425px" bgcolor="#aaaaaa"></td>
         </div>
 
     </tr>
