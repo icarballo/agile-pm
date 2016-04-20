@@ -1,11 +1,12 @@
 .form-horizontal .control-label {
     text-align: left;
 }
+/*
 a:link
 {
     text-decoration:none;
 }
-
+*/
 /* custom inclusion of right, left and below tabs */
 
 .tabs-below > .nav-tabs,
@@ -111,4 +112,19 @@ a:link
 .tabs-right > .nav-tabs .active > a:focus {
     border-color: #ddd #ddd #ddd transparent;
     *border-left-color: #ffffff;
+}
+
+a.without_href{
+    pointer-events: none;
+    cursor: default;
+}
+
+a.with_href{
+    cursor: hand;
+    text-decoration:none;
+
+}
+
+a.label{
+    text-decoration:none;
 }
