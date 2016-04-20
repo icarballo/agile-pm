@@ -28,29 +28,48 @@
 <table id="apm-ds-header">
     <tr>
         <!-- apm-ds-header-a | logo -->
-        <td width="350px" bgcolor="#eaeaea" align="center"> <!-- bgcolor="#aaaaaa" -->
+        <td width="350px" height="40px" bgcolor="#eaeaea" align="center"> <!-- bgcolor="#aaaaaa" -->
             <label class="col-sm-12 control-label" for="sm" style="font-family: 'Calibri Light', sans-serif; font-size: 18pt; font-weight: 700;">agile-pm</label>
         </td>
 
         <!-- apm-ds-header-separador -->
-        <td width="25px" bgcolor="#eaeaea" align="center"></td>
+        <td width="25px" height="40px" bgcolor="#eaeaea" align="center"></td>
 
         <!-- apm-ds-header-b | menú principal de la website -->
-        <td width="925px" bgcolor="#eaeaea" align="left"> <!-- bgcolor="#aaaaaa" -->
-            <img src="../framework/material-design-icons-apm/action/ic_list_black_24dp.png">&nbsp;<a class="with_href" style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="../bandeja_de_entrada/index.php">Listas</a>&nbsp;
-            <img src="../framework/material-design-icons-apm/editor/ic_border_color_black_24dp.png">&nbsp;<a class="with_href" style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="../recopilar/index.php">Recopilar</a>&nbsp;
-            <img src="../framework/material-design-icons-apm/action/ic_settings_black_24dp.png">&nbsp;<a class="with_href" style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="../error/en_construccion.php">Procesar</a>&nbsp;
-            <img src="../framework/material-design-icons-apm/action/ic_assignment_black_24dp.png">&nbsp;<a class="with_href" style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="www.google.es">Revisar</a>&nbsp;
-            <img src="../framework/material-design-icons-apm/action/ic_work_black_24dp.png">&nbsp;<a class="with_href" style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="www.google.es">Proyectos</a>&nbsp;
-            <img src="../framework/material-design-icons-apm/action/ic_visibility_black_24dp.png">&nbsp;<a class="with_href" style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="www.google.es">Perspectiva</a>&nbsp;
-            <img src="../framework/material-design-icons-apm/action/ic_assessment_black_24dp.png">&nbsp;<a class="with_href" style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="www.google.es">Informes</a>&nbsp;
+        <td width="925px" height="40px" bgcolor="#eaeaea" align="left"> <!-- bgcolor="#aaaaaa" -->
+            <table width="100%">
+                <tr bgcolor="">
+                    <td width="80px" height="40px" align="center" onMouseover="this.bgColor='#d3d3d3'" onMouseout="this.bgColor='#eaeaea'">
+                        <img src="../framework/material-design-icons-apm/action/ic_list_black_24dp.png">&nbsp;<a class="with_href" style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="../bandeja_de_entrada/index.php">Listas</a>
+                    </td>
+                    <td width="100px" height="40px" align="center" onMouseover="this.bgColor='#c2c2c2'" onMouseout="this.bgColor='#d3d3d3'" bgcolor="#d3d3d3">
+                        <img src="../framework/material-design-icons-apm/editor/ic_border_color_black_24dp.png">&nbsp;<a class="with_href" style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="../recopilar/index.php">Recopilar</a>
+                    </td>
+                    <td width="100px" height="40px" align="center" onMouseover="this.bgColor='#d3d3d3'" onMouseout="this.bgColor='#eaeaea'">
+                        <img src="../framework/material-design-icons-apm/action/ic_settings_black_24dp.png">&nbsp;<a class="with_href" style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="../error/en_construccion.php">Procesar</a>
+                    </td>
+                    <td width="80px" height="40px" align="center" onMouseover="this.bgColor='#d3d3d3'" onMouseout="this.bgColor='#eaeaea'">
+                        <img src="../framework/material-design-icons-apm/action/ic_assignment_black_24dp.png">&nbsp;<a class="with_href" style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="www.google.es">Revisar</a>
+                    </td>
+                    <td width="100px" height="40px" align="center" onMouseover="this.bgColor='#d3d3d3'" onMouseout="this.bgColor='#eaeaea'">
+                        <img src="../framework/material-design-icons-apm/action/ic_work_black_24dp.png">&nbsp;<a class="with_href" style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="www.google.es">Proyectos</a>
+                    </td>
+                    <td width="110px" height="40px" align="center" onMouseover="this.bgColor='#d3d3d3'" onMouseout="this.bgColor='#eaeaea'">
+                        <img src="../framework/material-design-icons-apm/action/ic_visibility_black_24dp.png">&nbsp;<a class="with_href" style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="www.google.es">Perspectiva</a>
+                    </td>
+                    <td width="100px" height="40px" align="center" onMouseover="this.bgColor='#d3d3d3'" onMouseout="this.bgColor='#eaeaea'">
+                        <img src="../framework/material-design-icons-apm/action/ic_assessment_black_24dp.png">&nbsp;<a class="with_href" style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="www.google.es">Informes</a>
+                    </td>
+                    <td height="40px"></td>
+                </tr>
+            </table>
         </td>
 
         <!-- apm-ds-header-separador -->
-        <td width="25px" bgcolor="#eaeaea" align="center"></td>
+        <td width="25px" height="40px" bgcolor="#eaeaea" align="center"></td>
 
         <!-- apm-ds-header-c -->
-        <td width="425px" bgcolor="#eaeaea"> <!-- bgcolor="#aaaaaa" -->
+        <td width="425px" height="40px" bgcolor="#eaeaea"> <!-- bgcolor="#aaaaaa" -->
             <img src="../framework/material-design-icons-apm/social/ic_notifications_none_black_24dp.png">&nbsp;<a class="without_href" style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="www.google.es"></a>
             <img src="../framework/material-design-icons-apm/action/ic_perm_identity_black_36dp.png">&nbsp;<a class="without_href" style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="www.google.es">Login</a>
         </td>
@@ -74,7 +93,7 @@
                     <td colspan="3">&nbsp;</td> <!-- separador -->
                 </tr>
 
-                <tr>
+                <tr onMouseover="this.bgColor='#eaeaea'" onMouseout="this.bgColor='#ffffff'">
                     <td width="30px">
                         <img src="../framework/material-design-icons-apm/content/ic_inbox_black_24dp.png">
                     </td>
@@ -95,7 +114,7 @@
                     <td height="5px" colspan="2"></td> <!-- separador -->
                 </tr>
 
-                <tr>
+                <tr onMouseover="this.bgColor='#eaeaea'" onMouseout="this.bgColor='#ffffff'">
                     <td width="30px">
                         <img src="../framework/material-design-icons-apm/action/ic_today_black_24dp.png">
                     </td>
@@ -108,7 +127,7 @@
                     <td height="5px" colspan="2"></td> <!-- separador -->
                 </tr>
 
-                <tr>
+                <tr onMouseover="this.bgColor='#eaeaea'" onMouseout="this.bgColor='#ffffff'">
                     <td width="30px">
                         <img src="../framework/material-design-icons-apm/navigation/ic_arrow_forward_black_24dp.png">
                     </td>
@@ -121,7 +140,7 @@
                     <td height="5px" colspan="2"></td> <!-- separador -->
                 </tr>
 
-                <tr>
+                <tr onMouseover="this.bgColor='#eaeaea'" onMouseout="this.bgColor='#ffffff'">
                     <td width="30px">
                         <img src="../framework/material-design-icons-apm/action/ic_history_black_24dp.png">
                     </td>
@@ -142,7 +161,7 @@
                     <td height="5px" colspan="2"></td> <!-- separador -->
                 </tr>
 
-                <tr>
+                <tr onMouseover="this.bgColor='#eaeaea'" onMouseout="this.bgColor='#ffffff'">
                     <td width="30px">
                         <img src="../framework/material-design-icons-apm/action/ic_help_black_24dp.png">
                     </td>
@@ -155,7 +174,7 @@
                     <td height="5px" colspan="2"></td> <!-- separador -->
                 </tr>
 
-                <tr>
+                <tr onMouseover="this.bgColor='#eaeaea'" onMouseout="this.bgColor='#ffffff'">
                     <td width="30px">
                         <img src="../framework/material-design-icons-apm/content/ic_archive_black_24dp.png">
                     </td>
@@ -168,7 +187,7 @@
                     <td height="5px" colspan="2"></td> <!-- separador -->
                 </tr>
 
-                <tr>
+                <tr onMouseover="this.bgColor='#eaeaea'" onMouseout="this.bgColor='#ffffff'">
                     <td width="30px">
                         <img src="../framework/material-design-icons-apm/file/ic_folder_open_black_24dp.png">
                     </td>
@@ -189,7 +208,7 @@
                     <td height="5px" colspan="2"></td> <!-- separador -->
                 </tr>
 
-                <tr>
+                <tr onMouseover="this.bgColor='#eaeaea'" onMouseout="this.bgColor='#ffffff'">
                     <td width="30px">
                         <img src="../framework/material-design-icons-apm/action/ic_delete_black_24dp.png">
                     </td>
@@ -202,7 +221,7 @@
                     <td height="5px" colspan="2"></td> <!-- separador -->
                 </tr>
 
-                <tr>
+                <tr onMouseover="this.bgColor='#eaeaea'" onMouseout="this.bgColor='#ffffff'">
                     <td width="30px">
                         <img src="../framework/material-design-icons-apm/action/ic_done_black_24dp.png">
                     </td>
