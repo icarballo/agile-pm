@@ -25,176 +25,216 @@
 </head>
 <body> <!-- style="background-color:#e6e6e6" -->
 
-<table>
-    <tr>
-        <!-- tamaño 350 px -->
-        <div id="apm-ds-header-a">
-            <td width="350px" bgcolor="#aaaaaa" align="center"> <!-- bgcolor="#aaaaaa" -->
-                <label class="col-sm-12 control-label" for="sm" style="font-family: 'Calibri Light', sans-serif; font-size: 18pt; font-weight: 700;">Agile <br> Project Management</label>
+    <table id="apm-ds-header">
+        <tr>
+            <!-- apm-ds-header-a | logo -->
+            <td width="350px" bgcolor="#eaeaea" align="center"> <!-- bgcolor="#aaaaaa" -->
+                <label class="col-sm-12 control-label" for="sm" style="font-family: 'Calibri Light', sans-serif; font-size: 18pt; font-weight: 700;">agile-pm</label>
             </td>
-        </div>
 
-        <!-- tamaño 25 px -->
-        <div id="apm-ds-header-separador">
-            <td width="25px" bgcolor="#aaaaaa" align="center"></td>
-        </div>
+            <!-- apm-ds-header-separador -->
+            <td width="25px" bgcolor="#eaeaea" align="center"></td>
 
-        <!-- tamaño 925 px -->
-        <div id="apm-ds-header-b">
-            <td width="925px" bgcolor="#aaaaaa" align="left"> <!-- bgcolor="#aaaaaa" -->
-                <img src="../framework/material-design-icons-apm/action/ic_list_black_24dp.png">&nbsp;<a style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="../bandeja_de_entrada/index.php">Listas</a>&nbsp;
-                <img src="../framework/material-design-icons-apm/action/ic_chrome_reader_mode_black_24dp.png">&nbsp;<a style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="../recopilar/index.php">Recopilar</a>&nbsp;
-                <img src="../framework/material-design-icons-apm/action/ic_settings_black_24dp.png">&nbsp;<a style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="www.google.es">Procesar</a>&nbsp;
-                <img src="../framework/material-design-icons-apm/action/ic_assignment_black_24dp.png">&nbsp;<a style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="www.google.es">Revisar</a>&nbsp;
-                <img src="../framework/material-design-icons-apm/action/ic_work_black_24dp.png">&nbsp;<a style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="www.google.es">Proyectos</a>&nbsp;
-                <img src="../framework/material-design-icons-apm/action/ic_visibility_black_24dp.png">&nbsp;<a style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="www.google.es">Perspectiva</a>&nbsp;
-                <img src="../framework/material-design-icons-apm/action/ic_assessment_black_24dp.png">&nbsp;<a style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="www.google.es">Informes</a>&nbsp;
+            <!-- apm-ds-header-b | menú principal de la website -->
+            <td width="925px" bgcolor="#eaeaea" align="left"> <!-- bgcolor="#aaaaaa" -->
+                <img src="../framework/material-design-icons-apm/action/ic_list_black_24dp.png">&nbsp;<a class="with_href" style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="../bandeja_de_entrada/index.php">Listas</a>&nbsp;
+                <img src="../framework/material-design-icons-apm/editor/ic_border_color_black_24dp.png">&nbsp;<a class="with_href" style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="../recopilar/index.php">Recopilar</a>&nbsp;
+                <img src="../framework/material-design-icons-apm/action/ic_settings_black_24dp.png">&nbsp;<a class="with_href" style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="../error/en_construccion.php">Procesar</a>&nbsp;
+                <img src="../framework/material-design-icons-apm/action/ic_assignment_black_24dp.png">&nbsp;<a class="with_href" style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="www.google.es">Revisar</a>&nbsp;
+                <img src="../framework/material-design-icons-apm/action/ic_work_black_24dp.png">&nbsp;<a class="with_href" style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="www.google.es">Proyectos</a>&nbsp;
+                <img src="../framework/material-design-icons-apm/action/ic_visibility_black_24dp.png">&nbsp;<a class="with_href" style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="www.google.es">Perspectiva</a>&nbsp;
+                <img src="../framework/material-design-icons-apm/action/ic_assessment_black_24dp.png">&nbsp;<a class="with_href" style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="www.google.es">Informes</a>&nbsp;
             </td>
-        </div>
 
-        <!-- tamaño 25 px -->
-        <div id="apm-ds-header-separador">
-            <td width="25px" bgcolor="#aaaaaa" align="center"></td>
-        </div>
+            <!-- apm-ds-header-separador -->
+            <td width="25px" bgcolor="#eaeaea" align="center"></td>
 
-        <!-- tamaño 425 px -->
-        <div id="apm-ds-header-c">
-            <td width="425px" bgcolor="#aaaaaa"> <!-- bgcolor="#aaaaaa" -->
-                <img src="../framework/material-design-icons-apm/social/ic_notifications_none_black_24dp.png">&nbsp;<a style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="www.google.es"></a>
-                <img src="../framework/material-design-icons-apm/action/ic_perm_identity_black_36dp.png">&nbsp;<a style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="www.google.es">Login</a>
+            <!-- apm-ds-header-c -->
+            <td width="425px" bgcolor="#eaeaea"> <!-- bgcolor="#aaaaaa" -->
+                <img src="../framework/material-design-icons-apm/social/ic_notifications_none_black_24dp.png">&nbsp;<a class="without_href" style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="www.google.es"></a>
+                <img src="../framework/material-design-icons-apm/action/ic_perm_identity_black_36dp.png">&nbsp;<a class="without_href" style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="www.google.es">Login</a>
             </td>
-        </div>
-    </tr>
-</table>
 
-<table>
-    <tr>
-        <!-- tamaño 350 px -->
-        <div id="apm-ds-content-a">
+        </tr>
+    </table>
 
-            <td width="15px"></td><!-- separador -->
+    <table>
+        <tr>
+        
+            <!-- apm-ds-content-separador -->
+            <td width="15px"></td>
+
+            <!-- ***************************************************************************************************************************************************************** -->
+            <!-- apm-ds-content-a -->
+            <!-- ***************************************************************************************************************************************************************** -->
             <td width="335px" valign="top">
+
                 <table border="0">
                     <tr>
                         <td colspan="3">&nbsp;</td> <!-- separador -->
                     </tr>
+
                     <tr bgcolor="#eaeaea">
-                        <td width="30px"><img src="../framework/material-design-icons-apm/content/ic_inbox_black_24dp.png"></td>
+                        <td width="30px">
+                            <img src="../framework/material-design-icons-apm/content/ic_inbox_black_24dp.png">
+                        </td>
                         <td width="305px" valign="middle">
-                            <a style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="../bandeja_de_entrada/index.php">Bandeja de entrada</a>
+                            <a class="with_href" style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 300; color: #000000;" href="../bandeja_de_entrada/index.php">Bandeja de entrada</a>
                         </td>
                     </tr>
+
                     <tr>
                         <td height="5px" colspan="2"></td> <!-- separador -->
                     </tr>
+
                     <tr>
                         <td height="1px" colspan="2" bgcolor="#aaaaaa"></td> <!-- linea divisoria -->
                     </tr>
+
                     <tr>
                         <td height="5px" colspan="2"></td> <!-- separador -->
                     </tr>
+
                     <tr>
-                        <td width="30px"><img src="../framework/material-design-icons-apm/action/ic_today_black_24dp.png"></td>
+                        <td width="30px">
+                            <img src="../framework/material-design-icons-apm/action/ic_today_black_24dp.png">
+                        </td>
                         <td width="305px" valign="middle">
-                            <a style="font-family: 'Calibri Light', sans-serif; font-size: 11pt; font-weight: 300; color: #000000;" href="../agenda/index.php">Agenda</a>
+                            <a class="with_href" style="font-family: 'Calibri Light', sans-serif; font-size: 11pt; font-weight: 300; color: #000000;" href="../agenda/index.php">Agenda</a>
                         </td>
                     </tr>
+
                     <tr>
                         <td height="5px" colspan="2"></td> <!-- separador -->
                     </tr>
+
                     <tr>
-                        <td width="30px"><img src="../framework/material-design-icons-apm/navigation/ic_arrow_forward_black_24dp.png"></td>
+                        <td width="30px">
+                            <img src="../framework/material-design-icons-apm/navigation/ic_arrow_forward_black_24dp.png">
+                        </td>
                         <td width="305px" valign="middle">
-                            <a style="font-family: 'Calibri Light', sans-serif; font-size: 11pt; font-weight: 300; color: #000000;" href="../siguientes_acciones/index.php">Siguientes Acciones</a>
+                            <a class="with_href" style="font-family: 'Calibri Light', sans-serif; font-size: 11pt; font-weight: 300; color: #000000;" href="../siguientes_acciones/index.php">Siguientes Acciones</a>
                         </td>
                     </tr>
+
                     <tr>
                         <td height="5px" colspan="2"></td> <!-- separador -->
                     </tr>
+
                     <tr>
-                        <td width="30px"><img src="../framework/material-design-icons-apm/action/ic_history_black_24dp.png"></td>
+                        <td width="30px">
+                            <img src="../framework/material-design-icons-apm/action/ic_history_black_24dp.png">
+                        </td>
                         <td width="305px" valign="middle">
-                            <a style="font-family: 'Calibri Light', sans-serif; font-size: 11pt; font-weight: 300; color: #000000;" href="../a_la_espera/index.php">A la espera</a>
+                            <a class="with_href" style="font-family: 'Calibri Light', sans-serif; font-size: 11pt; font-weight: 300; color: #000000;" href="../a_la_espera/index.php">A la espera</a>
                         </td>
                     </tr>
+
                     <tr>
                         <td height="5px" colspan="2"></td> <!-- separador -->
                     </tr>
+
                     <tr>
                         <td height="1px" colspan="2" bgcolor="#aaaaaa"></td> <!-- linea divisoria -->
                     </tr>
+
                     <tr>
                         <td height="5px" colspan="2"></td> <!-- separador -->
                     </tr>
+
                     <tr>
-                        <td width="30px"><img src="../framework/material-design-icons-apm/action/ic_help_black_24dp.png"></td>
+                        <td width="30px">
+                            <img src="../framework/material-design-icons-apm/action/ic_help_black_24dp.png">
+                        </td>
                         <td width="305px" valign="middle">
-                            <a style="font-family: 'Calibri Light', sans-serif; font-size: 11pt; font-weight: 300; color: #000000;" href="../algun_dia_tal_vez/index.php">Algún día / Tal vez</a>
+                            <a class="with_href" style="font-family: 'Calibri Light', sans-serif; font-size: 11pt; font-weight: 300; color: #000000;" href="../algun_dia_tal_vez/index.php">Algún día / Tal vez</a>
                         </td>
                     </tr>
+
                     <tr>
                         <td height="5px" colspan="2"></td> <!-- separador -->
                     </tr>
+
                     <tr>
-                        <td width="30px"><img src="../framework/material-design-icons-apm/content/ic_archive_black_24dp.png"></td>
+                        <td width="30px">
+                            <img src="../framework/material-design-icons-apm/content/ic_archive_black_24dp.png">
+                        </td>
                         <td width="305px" valign="middle">
-                            <a style="font-family: 'Calibri Light', sans-serif; font-size: 11pt; font-weight: 300; color: #000000;" href="../material_de_referencia/index.php">Material de Referencia</a>
+                            <a class="with_href" style="font-family: 'Calibri Light', sans-serif; font-size: 11pt; font-weight: 300; color: #000000;" href="../material_de_referencia/index.php">Material de Referencia</a>
                         </td>
                     </tr>
+
                     <tr>
                         <td height="5px" colspan="2"></td> <!-- separador -->
                     </tr>
+
                     <tr>
-                        <td width="30px"><img src="../framework/material-design-icons-apm/file/ic_folder_open_black_24dp.png"></td>
+                        <td width="30px">
+                            <img src="../framework/material-design-icons-apm/file/ic_folder_open_black_24dp.png">
+                        </td>
                         <td width="305px" valign="middle">
-                            <a style="font-family: 'Calibri Light', sans-serif; font-size: 11pt; font-weight: 300; color: #000000;" href="../archivo_de_seguimiento/index.php">Archivo de Seguimiento</a>
+                            <a class="with_href" style="font-family: 'Calibri Light', sans-serif; font-size: 11pt; font-weight: 300; color: #000000;" href="../archivo_de_seguimiento/index.php">Archivo de Seguimiento</a>
                         </td>
                     </tr>
+
                     <tr>
                         <td height="5px" colspan="2"></td> <!-- separador -->
                     </tr>
+
                     <tr>
                         <td height="1px" colspan="2" bgcolor="#aaaaaa"></td> <!-- linea divisoria -->
                     </tr>
+
                     <tr>
                         <td height="5px" colspan="2"></td> <!-- separador -->
                     </tr>
+
                     <tr>
-                        <td width="30px"><img src="../framework/material-design-icons-apm/action/ic_delete_black_24dp.png"></td>
+                        <td width="30px">
+                            <img src="../framework/material-design-icons-apm/action/ic_delete_black_24dp.png">
+                        </td>
                         <td width="305px" valign="middle">
-                            <a style="font-family: 'Calibri Light', sans-serif; font-size: 11pt; font-weight: 300; color: #000000;" href="../papelera/index.php">Papelera</a>
+                            <a class="with_href" style="font-family: 'Calibri Light', sans-serif; font-size: 11pt; font-weight: 300; color: #000000;" href="../papelera/index.php">Papelera</a>
                         </td>
                     </tr>
+
                     <tr>
                         <td height="5px" colspan="2"></td> <!-- separador -->
                     </tr>
+
                     <tr>
-                        <td width="30px"><img src="../framework/material-design-icons-apm/action/ic_done_black_24dp.png"></td>
+                        <td width="30px">
+                            <img src="../framework/material-design-icons-apm/action/ic_done_black_24dp.png">
+                        </td>
                         <td width="305px" valign="middle">
-                            <a style="font-family: 'Calibri Light', sans-serif; font-size: 11pt; font-weight: 300; color: #000000;" href="../hecho/index.php">Hecho</a>
+                            <a class="with_href" style="font-family: 'Calibri Light', sans-serif; font-size: 11pt; font-weight: 300; color: #000000;" href="../hecho/index.php">Hecho</a>
                         </td>
                     </tr>
+
                     <tr>
                         <td colspan="2">&nbsp;</td> <!-- último registro para gestionar la tabla correctamente. -->
                     </tr>
-                </table>
-            </td>
-        </div>
 
-        <!-- tamaño 25 px -->
-        <div id="apm-ds-content-separador">
+                </table>
+
+            </td>
+
+            <!-- apm-ds-content-separador -->
             <td width="12px" valign="top"></td>
             <td width="1px" valign="top" bgcolor="#aaaaaa"></td>
             <td width="12px" valign="top"></td>
-        </div>
 
-        <!-- tamaño 925 px -->
-        <div id="apm-ds-content-b">
+            <!-- ***************************************************************************************************************************************************************** -->
+            <!-- apm-ds-content-b -->
+            <!-- ***************************************************************************************************************************************************************** -->
             <td width="925px" valign="top">
                 <table>
                     <tr>
+                        <td colspan="4"   height="20px"></td>
+                    </tr>
+                    <tr>
                         <td colspan="4"   height="40px">
-                                <img src="../framework/material-design-icons-apm/content/ic_inbox_black_48dp.png">
+                                <img src="../framework/material-design-icons-apm/content/ic_inbox_black_36dp.png">
                                 <label style="font-family: 'Calibri Light', sans-serif; font-size: 16pt; font-weight: 700; color: #000000;">Bandeja de entrada</label>
                         </td>
                     </tr>
@@ -212,17 +252,15 @@
                     </tr>
                 </table>
             </td>
-        </div>
 
-        <!-- tamaño 25 px -->
-        <div id="apm-ds-content-separador">
+            <!-- apm-ds-content-separador -->
             <td width="12px" valign="top"></td>
             <td width="1px" valign="top" bgcolor="#aaaaaa"></td>
             <td width="12px" valign="top"></td>
-        </div>
 
-        <!-- tamaño 425 px -->
-        <div id="apm-ds-content-c">
+            <!-- ***************************************************************************************************************************************************************** -->
+            <!-- apm-ds-content-c -->
+            <!-- ***************************************************************************************************************************************************************** -->
             <td width="425px" valign="top">
                 <table>
                     <tr>
@@ -230,47 +268,58 @@
                     </tr>
                 </table>
             </td>
-        </div>
-    </tr>
-</table>
 
-<table>
-    <tr>
-        <!-- tamaño 350 px -->
-        <div id="apm-ds-footer-a">
-            <td width="350px" bgcolor="#aaaaaa"></td>
-        </div>
+        </tr>
+        
+    </table>
 
-        <!-- tamaño 25 px -->
-        <div id="apm-ds-footer-separador">
-            <td width="25px" bgcolor="#aaaaaa" align="center"></td>
-        </div>
+    <table>
+        
+        <tr>
+            <!-- apm-ds-footer-separador --> 
+            <td colspan="5" height="1px" bgcolor="#aaaaaa"></td>
+        </tr>
+        
+        <tr>
+            <!-- apm-ds-footer-separador -->
+            <td colspan="5" height="10px"></td>
+        </tr>
+        
+        <tr>
+            
+            <!-- ***************************************************************************************************************************************************************** -->
+            <!-- apm-ds-footer-a -->
+            <!-- ***************************************************************************************************************************************************************** -->
+            <td width="350px"></td>
+         
+            <!-- apm-ds-footer-separador -->
+            <td width="25px"></td>
 
-        <!-- tamaño 925 px -->
-        <div id="apm-ds-footer-b">
-            <td width="925px" bgcolor="#aaaaaa" align="right">
+            <!-- ***************************************************************************************************************************************************************** -->
+            <!-- apm-ds-footer-b -->
+            <!-- ***************************************************************************************************************************************************************** -->
+            <td width="925px" align="right">
                 <img src="../framework/material-design-icons-apm/action/ic_copyright_black_18dp.png">
-                <a style="font-family: 'Calibri Light', sans-serif; font-size: 10pt; font-weight: 300; color: #000000;" href="www.google.es"> 2016 by carballo-team. All rights reserved.</a>
+                <a class="without_href" style="font-family: 'Calibri Light', sans-serif; font-size: 10pt; font-weight: 300; color: #000000;" href="none"> 2016 by carballo-team. All rights reserved.</a>
             </td>
-        </div>
+        
+            <!-- apm-ds-footer-separador -->
+            <td width="25px"></td>
 
-        <!-- tamaño 25 px -->
-        <div id="apm-ds-footer-separador">
-            <td width="25px" bgcolor="#aaaaaa" align="center"></td>
-        </div>
+            <!-- ***************************************************************************************************************************************************************** -->
+            <!-- apm-ds-footer-c -->
+            <!-- ***************************************************************************************************************************************************************** -->
+            <td width="425px"></td>
+    
+        </tr>
+        
+    </table>
 
-        <!-- tamaño 425 px -->
-        <div id="apm-ds-footer-c">
-            <td width="425px" bgcolor="#aaaaaa"></td>
-        </div>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../framework/bootstrap-3.3.6-dist/js/bootstrap.min.js"></script>
 
-    </tr>
-</table>
-
-<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="../framework/bootstrap-3.3.6-dist/js/bootstrap.min.js"></script>
 </body>
 </html>
 
