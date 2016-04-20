@@ -139,7 +139,7 @@
                     </tr>
                     <tr>
                         <td colspan="4" align="center">
-                            <a style="font-family: 'Calibri Light', sans-serif; font-size: 11pt; font-weight: 300; color: #000000;" href="none" class="without_href">¿Has olvidado tu contraseña? </a><a class="with_href" href="none" style="font-family: 'Calibri Light', sans-serif; font-size: 11pt; font-weight: 300; text-decoration: underline; color: #000000;"> Resetéala.</a>
+                            <a style="font-family: 'Calibri Light', sans-serif; font-size: 11pt; font-weight: 300; color: #000000;" href="none" class="without_href">¿Has olvidado tu contraseña? </a><a class="with_href" href="none" style="font-family: 'Calibri Light', sans-serif; font-size: 11pt; font-weight: 300; text-decoration: underline; color: #000000;"> Recupérala.</a>
                         </td>
                     </tr>
                     <tr>
