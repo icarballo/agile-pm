@@ -22,26 +22,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bandeja_de_entrada/index.php">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-              <folding>
-                <element signature="n#style#0;n#a#0;n#td#1;n#tr#0;n#table#0;n#td#2;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="323">
+              <caret line="99" column="34" selection-start-line="97" selection-start-column="28" selection-end-line="99" selection-end-column="34" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/recopilar/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="64" selection-end-column="20" />
-              <folding>
-                <element signature="n#style#0;n#a#0;n#td#1;n#tr#0;n#table#0;n#td#2;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="672">
+              <caret line="280" column="79" selection-start-line="280" selection-start-column="79" selection-end-line="280" selection-end-column="79" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="formulario.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ejemplos/formulario.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="74" column="63" selection-start-line="74" selection-start-column="12" selection-end-line="74" selection-end-column="63" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -54,8 +60,8 @@
         <option value="$PROJECT_DIR$/framework/css/custom_styles.css" />
         <option value="$PROJECT_DIR$/error/en_construccion.php" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/recopilar/index.php" />
         <option value="$PROJECT_DIR$/bandeja_de_entrada/index.php" />
+        <option value="$PROJECT_DIR$/recopilar/index.php" />
       </list>
     </option>
   </component>
@@ -99,7 +105,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -222,7 +228,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -295,11 +301,12 @@
       <workItem from="1461096792088" duration="5524000" />
       <workItem from="1461168813287" duration="748000" />
       <workItem from="1461178250180" duration="7905000" />
+      <workItem from="1461218844122" duration="1019000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26925000" />
+    <option name="totallyTimeSpent" value="27944000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -361,11 +368,25 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/bandeja_de_entrada/index.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recopilar/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="64" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bandeja_de_entrada/index.php">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#td#1;n#tr#0;n#table#0;n#td#2;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -394,9 +415,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3349">
           <caret line="202" column="25" selection-start-line="202" selection-start-column="25" selection-end-line="202" selection-end-column="25" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#td#1;n#tr#0;n#table#0;n#td#2;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -418,9 +437,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3298">
           <caret line="199" column="44" selection-start-line="199" selection-start-column="44" selection-end-line="199" selection-end-column="44" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#td#1;n#tr#0;n#table#0;n#td#2;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -442,9 +459,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1955">
           <caret line="120" column="42" selection-start-line="120" selection-start-column="42" selection-end-line="120" selection-end-column="42" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#td#1;n#tr#0;n#table#0;n#td#2;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -466,9 +481,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1955">
           <caret line="120" column="42" selection-start-line="120" selection-start-column="42" selection-end-line="120" selection-end-column="42" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#td#1;n#tr#0;n#table#0;n#td#2;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -483,9 +496,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="952">
           <caret line="61" column="27" selection-start-line="61" selection-start-column="27" selection-end-line="61" selection-end-column="27" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#td#1;n#tr#0;n#table#0;n#td#2;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -500,9 +511,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3995">
           <caret line="240" column="57" selection-start-line="240" selection-start-column="51" selection-end-line="240" selection-end-column="57" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#td#1;n#tr#0;n#table#0;n#td#2;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -538,16 +547,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4454">
           <caret line="267" column="8" selection-start-line="236" selection-start-column="0" selection-end-line="267" selection-end-column="8" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#td#1;n#tr#0;n#table#0;n#td#2;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ejemplos/formulario.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="39" column="14" selection-start-line="36" selection-start-column="8" selection-end-line="39" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -586,31 +586,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/bandeja_de_entrada/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="146" column="25" selection-start-line="146" selection-start-column="25" selection-end-line="146" selection-end-column="25" />
+        <state relative-caret-position="323">
+          <caret line="99" column="34" selection-start-line="97" selection-start-column="28" selection-end-line="99" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejemplos/formulario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="74" column="63" selection-start-line="74" selection-start-column="12" selection-end-line="74" selection-end-column="63" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/recopilar/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="64" selection-end-column="20" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#td#1;n#tr#0;n#table#0;n#td#2;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bandeja_de_entrada/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#td#1;n#tr#0;n#table#0;n#td#2;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="672">
+          <caret line="280" column="79" selection-start-line="280" selection-start-column="79" selection-end-line="280" selection-end-column="79" />
+          <folding />
         </state>
       </provider>
     </entry>

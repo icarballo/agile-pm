@@ -258,8 +258,29 @@
                     </td>
                 </tr>
                 <tr>
-                    <td width="200px" height="40px"> </td>
-                    <td width="275px" height="40px"> </td>
+                    <td colspan="4"   height="20px"></td>
+                </tr>
+                <tr>
+                    <td width="200px" height="40px">
+                        <a style="font-family: 'Calibri Light', sans-serif; font-size: 11pt; font-weight: 300; color: #000000;" href="none" class="without_href">¿Qué está en tu mente?</a>
+                    </td>
+                    <td width="275px" height="40px">
+                        <div class="col-sm-13">
+                            <input type="text" class="form-control input-sm" id="usuario_id" placeholder="Obligatorio">
+                        </div>
+                    </td>
+                    <td width="25px"  height="40px"> </td>
+                    <td width="450px" height="40px"> </td>
+                </tr>
+                <tr>
+                    <td width="200px" height="40px">
+                        <a style="font-family: 'Calibri Light', sans-serif; font-size: 11pt; font-weight: 300; color: #000000;" href="none" class="without_href">Comentario</a>
+                    </td>
+                    <td width="275px" height="40px">
+                        <div class="col-sm-13">
+                            <textarea class="form-control" rows="4"></textarea>
+                        </div>
+                    </td>
                     <td width="25px"  height="40px"> </td>
                     <td width="450px" height="40px"> </td>
                 </tr>
