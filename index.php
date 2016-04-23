@@ -96,7 +96,7 @@
                         </td>
                         <td width="250px">
                             <div class="col-sm-13">
-                                <input type="text" class="form-control input-sm" id="usuario_id" placeholder="Obligatorio">
+                                <input type="text" class="form-control input-sm" id="usuario_codigo" placeholder="Obligatorio">
                             </div>
                         </td>
                         <td width="150px"></td>
