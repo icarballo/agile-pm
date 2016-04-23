@@ -249,46 +249,53 @@
         <td width="925px" valign="top">
             <table>
                 <tr>
-                    <td colspan="4"   height="20px"></td>
+                    <td colspan="6"   height="20px"></td>
                 </tr>
                 <tr>
-                    <td colspan="4"   height="40px">
-                        <img src="../framework/material-design-icons-apm/editor/ic_border_color_black_36dp.png">
-                        <label style="font-family: 'Calibri Light', sans-serif; font-size: 16pt; font-weight: 700; color: #000000;">Recopilar</label>
+                    <td width="50px" height="40px"> </td>
+                    <td colspan="5"   height="40px">
+                        <img src="../framework/material-design-icons-apm/editor/ic_border_color_black_24dp.png">
+                        <label style="font-family: 'Calibri Light', sans-serif; font-size: 12pt; font-weight: 700; color: #000000;">Recopilar</label>
                     </td>
                 </tr>
                 <tr>
-                    <td colspan="4"   height="20px"></td>
+                    <td colspan="6"   height="20px"></td>
                 </tr>
                 <tr>
-                    <td width="200px" height="40px">
+                    <td width="50px" height="40px"> </td>
+                    <td width="180px" height="40px">
                         <a style="font-family: 'Calibri Light', sans-serif; font-size: 11pt; font-weight: 300; color: #000000;" href="none" class="without_href">¿Qué está en tu mente?</a>
                     </td>
-                    <td width="275px" height="40px">
+                    <td width="20px"  height="40px"> </td>
+                    <td width="450px" height="40px">
                         <div class="col-sm-13">
                             <input type="text" class="form-control input-sm" id="usuario_id" placeholder="Obligatorio">
                         </div>
                     </td>
-                    <td width="25px"  height="40px"> </td>
-                    <td width="450px" height="40px"> </td>
+                    <td width="175px" height="40px"> </td>
+                    <td width="50px" height="40px"> </td>
                 </tr>
                 <tr>
-                    <td width="200px" height="40px">
-                        <a style="font-family: 'Calibri Light', sans-serif; font-size: 11pt; font-weight: 300; color: #000000;" href="none" class="without_href">Comentario</a>
+                    <td width="50px" height="40px"> </td>
+                    <td width="180px" height="40px">
+                        <a style="font-family: 'Calibri Light', sans-serif; font-size: 11pt; font-weight: 300; color: #000000;" href="none" class="without_href">Descrpción</a>
                     </td>
-                    <td width="275px" height="40px">
+                    <td width="20px" height="40px"> </td>
+                    <td width="450px" height="40px">
                         <div class="col-sm-13">
                             <textarea class="form-control" rows="4"></textarea>
                         </div>
                     </td>
-                    <td width="25px"  height="40px"> </td>
-                    <td width="450px" height="40px"> </td>
+                    <td width="175px" height="40px"> </td>
+                    <td width="50px" height="40px"> </td>
                 </tr>
                 <tr>
-                    <td width="200px" height="40px"> </td>
-                    <td width="275px" height="40px"> </td>
-                    <td width="25px"  height="40px"> </td>
+                    <td width="50px" height="40px"> </td>
+                    <td width="180px" height="40px"> </td>
+                    <td width="20px" height="40px"> </td>
                     <td width="450px" height="40px"> </td>
+                    <td width="175px" height="40px"> </td>
+                    <td width="50px" height="40px"> </td>
                 </tr>
             </table>
         </td>
